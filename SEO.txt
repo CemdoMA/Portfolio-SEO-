@@ -1,0 +1,30 @@
+**Portfolio Cem den Ouden** 
+* http://22315.hosts.ma-cloud.nl/Portfolio/index.php *
+
+[================== To Do list =======================]
+
+----------------{Tags & Attributes}----------------
+
+-Geen 'Title attribute link' 
+-Geen'Alt attribute images' 
+-Geen'Title attribute images'
+-'Header tags' is al vrij goed maar kan beter
+-Pagina titel verbeteren, duidelijker
+
+----------------{Content}----------------
+
+-Geen sitemap
+-dubbele content
+-te weinig content
+-scripts zijn goed, kan beter (Validatie)
+
+----------------{Validatie}----------------
+
+-17 gevonden Errors, oplossen en opnieuw valideren
+
+_________________________________________________________
+
+**Score**
+Aantal behaalde sterren:	11/33
+Cijfer:				3,33
+
